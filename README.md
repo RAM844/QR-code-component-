@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [solution](https://your-solution-url.com)
+- Solution URL: [solution](https://front-end-mentor-qr-code-compnent-challenge.netlify.app/)
 
 
 
